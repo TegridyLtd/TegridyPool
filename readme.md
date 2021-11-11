@@ -1,4 +1,5 @@
 # Tegridy 2D Pool Controller
+![Tegridy](./0.png)
 ## About
 The TegridyPool package provides a basic 2D pool framework for deploying your own Pool/Snooker inspired games. Levels, balls and players can be configured in a number of ways enabling a great deal of variety from this simple controller. 
 ## Usage
